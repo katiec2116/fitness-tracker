@@ -13,7 +13,7 @@ router.post("/api/workouts", (req, res) => {
 });
 
 router.get("/api/workouts", (req, res) => {
-    Workout.find({})
+    Workout.find()
         .then(results => {
             res.json(results);
         })
