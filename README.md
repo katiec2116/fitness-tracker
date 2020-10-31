@@ -37,7 +37,8 @@ To run use the following command
 
 or use the deployed version
 
-![](recording.gif)
+<img src=tracker.png width=300px>
+<img src=dashboard.png width=600px>
 
 
 
